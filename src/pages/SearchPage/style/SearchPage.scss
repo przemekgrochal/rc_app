@@ -1,0 +1,17 @@
+.search-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 5%;
+
+  .search-info {
+    color: #403434;
+  }
+
+  .search-item{
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: 30px;
+  }
+}
